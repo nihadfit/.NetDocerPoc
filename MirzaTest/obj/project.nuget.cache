@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/sEwmYp9JZ8JUXn9wl2fl6SF+KLJfgKwIzvCY05H/tnzUnxEKvPGmA/VqTWBItDW1ARDdViagLo3AIfujo7o9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NihadLP\\Desktop\\RBBH\\EackEnd\\T1\\MirzaTest\\MirzaTest\\MirzaTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NihadLP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
