@@ -1,2 +1,0 @@
-# .NetDocerPoc
-.NetDocerPoc
