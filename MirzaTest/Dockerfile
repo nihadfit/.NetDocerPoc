@@ -5,6 +5,7 @@ EXPOSE 80
 EXPOSE 443
 
 # Copy csproj and restore
+FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 COPY *.csproj ./
 RUN dotnet restore
 
