@@ -1,4 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="/src//MirzaTest/obj/Debug/net5.0/scopedcss/bundle/" />
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\NihadLP\Desktop\RBBH\EackEnd\T1\MirzaTest\MirzaTest\obj\Debug\net5.0\scopedcss\bundle\" />
 </StaticWebAssets>
